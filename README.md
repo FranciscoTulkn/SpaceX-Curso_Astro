@@ -1,3 +1,18 @@
+# CURSO DE ASTRO
+## Tomado con Miguel Ángel Durán - Midudev
+
+Página web dedicada a consultar los lanzamientos realizados por la empresa Space X
+Pagina elaborada en HTML. CSS, Tailwin Css, Preact y Typescript.
+
+![image](https://github.com/FranciscoTulkn/SpaceX-Curso_Astro/assets/88959166/029d9d8e-3a65-4ef0-80b1-4148fa790ecf)
+
+
+
+
+
+
+
+
 # Astro Starter Kit: Basics
 
 ```sh
